@@ -26,7 +26,7 @@ alt="Video Tutorial on how add extra disk to your VM on Microsoft Azure" width="
 - On the Specify enclosure resiliency page, click Next.
 - Select the simple storage layout (because your VHDs are already triple replicated by Azure Storage, you do not need additional redundancy), and click Next
 - For the provisioning type, leave the selection as Fixed. Click Next 
-- For the size of the volume, select Maximum (Figure 1-22) so that the new virtual disk uses the complete capacity of the storage pool. Click Next
+- For the size of the volume, select Maximum so that the new virtual disk uses the complete capacity of the storage pool. Click Next
 - On the Summary page, click Create.
 - Click Close when the process completes
 
