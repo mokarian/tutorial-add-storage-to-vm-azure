@@ -1,5 +1,6 @@
 # Add storage to vm in Microsoft Azure
 This tutorial is about how to manage your disks, add disks to your virtual machine on Microsoft Azure.
+Assuming that you already created your VM and addeed extra disks to it follow the steps below:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=JyBUaBW_Zpo
 " target="_blank"><img src="http://img.youtube.com/vi/JyBUaBW_Zpo/0.jpg" 
